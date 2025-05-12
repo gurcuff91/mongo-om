@@ -1,0 +1,8 @@
+[project]
+name = "mongo-om"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+
+dependencies = ["geojson-pydantic>=1.2.0", "motor>=3.7.0", "pydantic>=2.11.3"]
